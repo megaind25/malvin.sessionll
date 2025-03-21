@@ -70,7 +70,7 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❺ || https://whatsapp.com/channel/0029Vb3U9MU1yT24NtpQoM3S
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || YouTube =  
+❻ || YouTube = https://youtube.com/@dora_official894?si=YlC9ypDclLWTYvba
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©2025-2026 ᴅᴏʀᴀ-ᴍᴅ_`
  await Pair_Code_By_Malvin_King.sendMessage(Pair_Code_By_Malvin_King.user.id,{text:MALVIN_KING_TEXT},{quoted:session})
