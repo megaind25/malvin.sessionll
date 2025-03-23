@@ -60,22 +60,17 @@ router.get('/', async (req, res) => {
 	
 				   let MALVIN_KING_TEXT = `
 ┏━━━━━━━━━━━━━━
-DORA-MD SESSION IS 
+┃LeoZzZ!¿ - MD SESSION IS 🦠
 ┃SUCCESSFULLY
-┃CONNECTED ✅🔥
+┃CONNECTED ☑️🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘⚡ DORA-MD ⚡𖥘
+❶ || Creator = 𖥘  LeoZzZ!¿-MD 🍀🐛 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || https://whatsapp.com/channel/0029Vb3U9MU1yT24NtpQoM3S
+❷ || Owner = https://Wa.me/+94701538928?text=ʜʏ_LeoZzZ!¿_🥷🏽✨
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/263780166288
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❺ || https://chat.whatsapp.com/FYsbo9QWv2K6wEjN7plbmg
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || YouTube = https://youtube.com/@dora_official894?si=YlC9ypDclLWTYvba
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©2025-2026 ᴅᴏʀᴀ-ᴍᴅ_`
+
+©2025-2026 ZzZ-👨🏽‍💻_`
 	 await Qr_Code_By_Malvin_King.sendMessage(Qr_Code_By_Malvin_King.user.id,{text:MALVIN_KING_TEXT},{quoted:session})
 
 
