@@ -58,20 +58,30 @@ router.get('/', async (req, res) => {
 				   let b64data = Buffer.from(data).toString('base64');
 				   let session = await Qr_Code_By_Malvin_King.sendMessage(Qr_Code_By_Malvin_King.user.id, { text: '' + b64data });
 	
-				   let MALVIN_KING_TEXT = `
+				   let SAQIB GHAZI = `
 ╭─----------------------------------------------->
 ┃ *||  Ale𝗫Le𝐎 𝗓ᶻ  ☰   MD › 🅥  SESSION IS 🌪️🦠*
 ┃ *||  SUCCESSFULLY ✨⏳*
 ┃ *||  CONNECTED ☑️🔥*
 ╰━----------------------------------------------->
 ╭─--------------------------------------------->
-┃ *❶ ||  Creator = Ale𝗫Le𝐎 𝗓ᶻ  ☰   MD › 🅥 👨🏽‍💻🌪️*
+┃ *❶ ||  Creator = SAQIB GHAZI   ☰   MD › 🅥 👨🏽‍💻🌪️*
 ╰━--------------------------------------------->
+
 ╭─------------------------------------------>
-┃ ❷ ||  Owner = https://2cm.es/AleXleoMD
+┃ ❷ ||  Owner NUM = https://wa.me/923237098573
+╰━------------------------------------------>
+╭─------------------------------------------>
+┃ ❷ ||  YOU TUBE = https://www.youtube.com/@saqibsarwarghaziofficial4637
+╰━------------------------------------------>
+╭─------------------------------------------>
+┃ ❷ ||  GITHUB = https://github.com/megaind25
+╰━------------------------------------------>
+╭─------------------------------------------>
+┃ ❷ ||  GITHUB = https://github.com/megaind25/GHAZI_MD/fork
 ╰━------------------------------------------>
 
-©2025-2026 *Ale𝗫Le𝐎 MD🦄✨*
+©2025-2026 *SAQIB GHAZI MD🦄✨*
 	 await Qr_Code_By_Malvin_King.sendMessage(Qr_Code_By_Malvin_King.user.id,{text:MALVIN_KING_TEXT},{quoted:session})
 
 
